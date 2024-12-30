@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+body {
+    background-image: url(../img/background.jpg);
+    font-size: small;
+    padding: 0;
+    margin: 15px;
+  }
+
+  /* img{
+    width: 70px;
+    height: 50; */
+  /* } */
+  table,tr,th,td {
+    border: 1px solid #ffffff;
+    border-collapse: collapse;
+    padding: 0;
+    text-align: center;
+  }
+  
+  a{
+    color:#ffffff;
+    /* transition: all 0.3s linear; */
+    box-shadow: white;
+  }
+  a img{
+    /* width: 25px;
+    height: 15px; */
+    position: relative;
+  }
+
+  a:hover{
+    color: #f31f1f;
+    box-shadow: #f31f1f;
+ }
+  
+  table{
+      margin: 0 auto;  
+  }
+  
+  th {
+    width: 100px;
+    height: 30px;
+  }
+  
+  td {
+    width: 100px;
+    height: 30px;
+  }
+  
+  .box1 {
+    height: 40px;
+    color: #ece8e8;
+    font-size: 30px;
+  }
+  
+  .content {
+    width: 950px;
+    padding: 10px;  
+  }
+
+  table img {
+    width: 80%;
+    margin: 0 10px 10px 0;
+  }
+  
+  
+  .fish{
+    width: 400px; 
+    border-radius: 0 0 10px 0;
+    float: left;
+  }
+  
+  p{
+    color: #ffffff;
+    font-size: 30px;
+  }
